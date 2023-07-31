@@ -1,6 +1,17 @@
 # quiver
 My quiver of knowledge and tools. Inspired by [Learn In Public](https://www.swyx.io/learn-in-public) 
 
+## Rendir Quentas (to be accountable in spanish)
+
+This is an attempt between student and advisor to keep each other accountable. We both have a repository that we push to daily. The other is responsible for reviewing the PR and providing feedback if desired.
+
+### Rules
+1. Push once a day. 
+- include daily plan and report.
+2. Make a PR request once a day for other participant/s.
+3. No more than 10 mins. on plan/report/PR.
+
+
 ## Goals and Plans Inspired by [PMG](https://site.churchofjesuschrist.org/study/manual/preach-my-gospel-2023/16-chapter-8?lang=eng)
 
 ### My Purpose
