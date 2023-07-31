@@ -3,7 +3,7 @@ My quiver of knowledge and tools. Inspired by [Learn In Public](https://www.swyx
 
 ## Rendir Quentas (to be accountable in spanish)
 
-This is an attempt between student and advisor to keep each other accountable. We both have a repository that we push to daily. The other is responsible for reviewing the PR and providing feedback if desired.
+This is an attempt between student and advisor to keep each other accountable. We both have a repository that we push to daily. The other is responsible for reviewing the PR and providing feedback if desired. Free to change as we go.
 
 ### Rules
 1. Push once a day. 
