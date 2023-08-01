@@ -2,7 +2,10 @@
 
 ## Data Information
 
-- Shape: (n,w,h) n - number of slices, w - width, h - height
+- Shape: (n,w,h)
+	- n: number of slices
+	- w: width
+	- h: height
 - Data Type: uint16
 - Data Range: 0 - 37647
 - Data mean: 892.5
