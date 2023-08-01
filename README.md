@@ -7,7 +7,7 @@ This is an attempt between student and advisor to keep each other accountable. W
 
 ### Rules
 1. Push once a day. 
-- include daily plan and report.
+	- include daily plan and report.
 2. Make a PR request once a day for other participant/s.
 3. No more than 10 mins. on plan/report/PR.
 
