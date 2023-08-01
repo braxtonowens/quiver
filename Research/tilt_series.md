@@ -30,4 +30,3 @@ We have a lot of data. We need to find a way to reduce the amount of data we hav
 If I am correct, as each image is taken and the sample is rotated, the sample is translated. This means that the sample is not in the same position for each image. So the label only truly applies to the center image. This means that we need to find a way to align the images. Is this done in the reconstruction? I don't think so.
 
 Cant find any bounding box information. Maybe we implement classical methods to simplify some of our problems.
-
