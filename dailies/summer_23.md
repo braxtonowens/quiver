@@ -9,6 +9,8 @@
 
 Attempt to link files from outside the repo. [link](../Research/tilt_series.md)
 
+Attempt to link to image outside the repo. ![image](../images/fig6.png)
+
 ## 08/01/2023
 
 - [x] 10:30 - 11:00 CFM
