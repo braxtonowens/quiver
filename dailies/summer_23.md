@@ -1,5 +1,12 @@
 # Summer 2023 Research Journal
 
+## 08/02/23
+- [ ] get bounding box size for each bacteria and append to csv.
+- [ ] get under 20G of data for as many species as possible.
+- [ ] upload data to kaggle and add important information to description.
+- [ ] 3 hours to writing gbcompare paper. No excuses. Write better goals for writing.
+- [x] Run quench scripts with increased size for all sigma 3, see homer chat. 
+
 ## 08/01/2023
 
 - [x] 10:30 - 11:00 CFM
@@ -59,9 +66,3 @@ NOTE: It is important to close xQuartz after you leave your session
 I find myself prioritizing BIG(Biophical Image Group) research over writing the gbcompare paper. Only worked on this from 4-5pm.
 
 Things were kinda slow with finding the fixed edge length and tomogram slices for each bacteria. I decided that the range of slices to be 10 minus the min of the picked slices to 10 plus the max of the picked slices. So the sizes wont be the same for each one so it is going to be up to the user to make it work. As far as a bounding box size, I need to see if they are all the same even across different bacteria species. 
-
-## 08/02/23
-- [ ] get bounding box size for each bacteria and append to csv.
-- [ ] get under 20G of data for as many species as possible.
-- [ ] upload data to kaggle and add important information to description.
-- [ ] 3 hours to writing gbcompare paper. No excuses. Write better goals for writing.
