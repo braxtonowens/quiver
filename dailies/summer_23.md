@@ -7,6 +7,8 @@
 - [ ] 3 hours to writing gbcompare paper. No excuses. Write better goals for writing.
 - [x] Run quench scripts with increased size for all sigma 3, see homer chat. 
 
+Attempt to link files from outside the repo. [link](../Research/tilt_series.md)
+
 ## 08/01/2023
 
 - [x] 10:30 - 11:00 CFM
