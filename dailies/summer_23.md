@@ -1,15 +1,61 @@
 # Summer 2023 Research Journal
 
+## Things on my TODO list
+- [ ] ACE Table
+	- [ ] fix ACE data
+- [ ] Get final tomogram data 
+	- dirs of each set of tomogram pngs
+	- slice range are going to be max_z + 30 and min_z - 30
+	- bounding box is going to be (60,60)
+- [ ] Review Paper
+- [ ] Write Paper 
+
+
+## 08/03/23
+
+ace_amr numpy array in ace_julia is not the same as the one in lagspace. I need to figure out why.
+
+- things to test:
+	- make sure averaging is the same
+	- check parameters
+	- Can we recreate the same numpy array in ace_julia?
+
+This is the script given to me by the organizers of ACE https://github.com/ACEsuit/ACEfit.jl/issues/28 which averages each atom representation.
+
+### FOUND IT
+The file, test.jl in fslg_gblearn/braxton/descriptors/ace returns the same values as ace_julia.
+Still don't know exactly why.
+
+### Rendir Quentas
+Today was a good day, found some important mistakes I made. I need to get table done first thing tomorrow. Might have to postpone because I might have to rerun all ACE.
+
+### Fixed Length Methods
+- PDF
+- Kmeans
+	- both with and without PCA
+	- both Kernel and non-kernel PCA
+- CUR
+- LDF
+
+### Hyperparameter Tuning
+- Preprocessing data
+- grid search
+
+
 ## 08/02/23
 - [ ] get bounding box size for each bacteria and append to csv.
 - [ ] get under 20G of data for as many species as possible.
 - [ ] upload data to kaggle and add important information to description.
-- [ ] 3 hours to writing gbcompare paper. No excuses. Write better goals for writing.
+- [x] 3 hours to writing gbcompare paper. No excuses. Write better goals for writing.
 - [x] Run quench scripts with increased size for all sigma 3, see homer chat. 
 
-Attempt to link files from outside the repo. [link](../Research/tilt_series.md)
+TODO:
+- [ ] ML/Descriptor/Fix table for ACE
 
-Attempt to link to image outside the repo. ![image](../images/fig6.png)
+### Rendir Quentas
+Writing does not come easily for me. If I am not actively writing on a daily basis the paper become a complex puzzle. Almost like each word is a parameter that needs to be optimized and placed correctly. By doing it before anything else I found that starting is the hard part. Spending time writing makes the puzzle seem doable.
+
+I also forgot to push for Gus, shame on me.
 
 ## 08/01/2023
 
