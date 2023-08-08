@@ -2,13 +2,28 @@
 
 ## Things on my TODO list
 - [ ] ACE Table
-	- [ ] fix ACE data
+	- [x] fix ACE data
 - [ ] Get final tomogram data 
 	- dirs of each set of tomogram pngs
 	- slice range are going to be max_z + 30 and min_z - 30
 	- bounding box is going to be (60,60)
 - [ ] Review Paper
 - [ ] Write Paper 
+
+## 08/07/23
+
+The Tomogram data need to be better explained. Filenames is not enough to go off of. I hereby promise to always include a README.txt in everything I ever do the rest of my life.
+
+### Lets play "Whats That Structure?!"
+
+- Campylobacter_jejuni
+	 - ![FLgP](../images/flgp.png)
+	!
+
+## 08/04/23
+I found the problem. I was doing two things wrong:
+1. I was dividing each ace vector by the amount of atoms. This most likely due to some copy and paste error. But mostly because I did not take the time to truly understand what was happening.
+2. amr is terrible. All i need to do is np.average(a,axis=0)
 
 
 ## 08/03/23
