@@ -10,6 +10,11 @@
 - [ ] Review Paper
 - [ ] Write Paper 
 
+## 08/09/23
+
+Differences in energy calculations for grain boundary predictions and atom predictions. The important thing to remember here is that our intent is to find meaning behind grain boundary structure.
+
+
 ## 08/07/23
 
 The Tomogram data need to be better explained. Filenames is not enough to go off of. I hereby promise to always include a README.txt in everything I ever do the rest of my life.
@@ -18,7 +23,6 @@ The Tomogram data need to be better explained. Filenames is not enough to go off
 
 - Campylobacter_jejuni
 	 - ![FLgP](../images/flgp.png)
-	!
 
 ## 08/04/23
 I found the problem. I was doing two things wrong:
